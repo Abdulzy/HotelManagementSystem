@@ -9,7 +9,7 @@
 
 <h3 align="center">Hotel Management System for Booking and Managing Guest</h3>
 Concept software built as final project for software engineering class. Supports authentication, data analysis and a sql database hosted on heroku to store room and user information All dependent libraries are in the `libraries folder`. Add all libraries to project before runing.
-Also `JDK 8` is recommended to avoid errors.  
+Also `JDK 8` is recommended to avoid errors as some of the imports are no longer supported by the newer JDK's.
 
 
 ## Built With
@@ -40,5 +40,5 @@ Also `JDK 8` is recommended to avoid errors.
 <p align="center"><img src="https://i.ibb.co/mBFYm8W/admin.png"></p>
 
 ## FAQ's
-* If you have any questions or corrections, please open an issue and we'll get it merged ASAP
-* For any other questions or concerns, just shoot me an email `chukwurahb@gmail.com`
+* If you have any questions or corrections, please open an issue and I'll get to it as soon as possible.
+* For any other questions or concerns, just send an email `isegen.a@northeastern.edu`
